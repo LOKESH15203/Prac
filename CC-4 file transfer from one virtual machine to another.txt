@@ -1,0 +1,20 @@
+Linux
+ubuntu 64 bit
+ubuntu 18.04
+check for nat network - file >>>> preferences >>> network
+individually set nat network for both vm machines
+
+
+command-
+login = password = vagrant
+ls
+touch filename.txt
+nano filename.txt - add data into file
+ctrl s
+ctrl x
+cat filename.txt
+ifconfig - check ip address of vm
+scp filename.txt vagrant@ip_address_of_vm2:/home/vagrant
+type yes
+enter password = vagrant
+cat filename

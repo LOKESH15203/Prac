@@ -1,0 +1,17 @@
+shreejitghute07@gmail.com
+Shreejit.J.Ghute@2122
+
+
+ec2
+launch instance
+create key pair - any name
+select instance and connect
+select rdp client
+download remote desktop file
+get password
+upload key
+connect the remote desktop
+enter the password
+
+
+username - dhapatedhruv21@gmail.com

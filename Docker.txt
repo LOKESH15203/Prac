@@ -1,0 +1,26 @@
+Commands - 
+docker -v
+
+docker images
+
+docker ps
+
+docker pull openjdk/python/mysql
+
+docker run --name name_of_image -it -d python
+
+docker exec -it name_of_image command_name(jshell)
+
+
+Code -
+public static void print(int n){
+     if (n ==0){
+         System.out.println(n);
+         return;
+     }
+     System.out.print(n + " ");
+     print(n-1);
+ }
+|  created method print(int)
+
+Or make a calculator

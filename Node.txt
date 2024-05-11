@@ -1,0 +1,35 @@
+npm init
+Enter for everything 
+Type yes
+
+Terminal - 
+npm install express --save
+
+
+Create a index.js - 
+const express=require('express');
+const app=express();
+app.use(express.static('public'))
+app.listen(4000,()=>{
+    console.log("Server is started");
+})
+
+
+
+
+Create new folder public
+Create index.html in public folder
+
+
+
+Terminal -
+To run - node index.js
+
+
+
+
+
+
+
+npm i express
+touch index.js
